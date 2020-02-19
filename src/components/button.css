@@ -1,0 +1,14 @@
+.butn {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  border-radius: 12px;
+  height: 3em;
+  font-size: 1.3em;
+  width: 4em;
+}
+.operator {
+  background-color: orange;
+  color: white;
+}
